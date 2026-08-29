@@ -1,8 +1,5 @@
-<!-- Variation 1: THE OPERATOR — terminal/homelab minimalism. Quiet confidence, config-file self-portrait. -->
 
 ### Hey, I'm Brandon. `phattbeats`
-
-Bridging the analog and digital gap.
 
 I never called myself a developer. I run infrastructure, I break things until they work, and somewhere along the way the things I built started getting merged into projects other people depend on.
 
@@ -12,7 +9,7 @@ operator:
   base: USA
   runs: PHATT TECH
   stack:
-    homelab: [Unraid, Docker, SWAG, way too many containers]
+    homelab
     languages: [Python, TypeScript, JavaScript, Lua, YAML-as-a-lifestyle]
     ai: [Claude, self-hosted TTS, agent orchestration at scale]
   philosophy: >
@@ -31,8 +28,8 @@ The stuff I'm proudest of — patches that left the homelab and got merged into 
 
 | | |
 |---|---|
-| [Chatterbox-TTS-amd](https://github.com/phattbeats/Chatterbox-TTS-amd) ⭐ | Chatterbox TTS server tuned for AMD ROCm — self-hosted voice cloning that doesn't require an NVIDIA tax |
-| [homestead](https://github.com/phattbeats/homestead) | A shared-life app for two people — tasks, lists, and a front porch |
+| [Chatterbox-TTS-amd](https://github.com/phattbeats/Chatterbox-TTS-amd) ⭐ | self-hosted voice cloning that doesn't require NVIDIA |
+| [homestead](https://github.com/phattbeats/homestead) | A shared-life app |
 | [phatt-picks](https://github.com/phattbeats/phatt-picks) | Mobile-first CS2 Major Pick'Em companion |
 | [cliclo](https://github.com/phattbeats/cliclo) | CLI comic library organizer |
 | [obsessed](https://github.com/phattbeats/obsessed) | Hyper-personal trivia engine |
@@ -47,12 +44,6 @@ The stuff I'm proudest of — patches that left the homelab and got merged into 
   </picture>
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/phattbeats/phattbeats/output/pacman-contribution-graph-dark.svg"/>
-    <img src="https://raw.githubusercontent.com/phattbeats/phattbeats/output/pacman-contribution-graph.svg" alt="pacman contribution graph"/>
-  </picture>
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=phattbeats&style=flat-square&color=blue" alt="profile views"/>
