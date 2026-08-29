@@ -31,6 +31,7 @@ The stuff I'm proudest of — patches that left the homelab and got merged into 
 
 | | |
 |---|---|
+| [Chatterbox-TTS-amd](https://github.com/phattbeats/Chatterbox-TTS-amd) ⭐ | Chatterbox TTS server tuned for AMD ROCm — self-hosted voice cloning that doesn't require an NVIDIA tax |
 | [homestead](https://github.com/phattbeats/homestead) | A shared-life app for two people — tasks, lists, and a front porch |
 | [phatt-picks](https://github.com/phattbeats/phatt-picks) | Mobile-first CS2 Major Pick'Em companion |
 | [cliclo](https://github.com/phattbeats/cliclo) | CLI comic library organizer |
