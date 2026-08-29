@@ -1,0 +1,46 @@
+<!-- Variation 1: THE OPERATOR — terminal/homelab minimalism. Quiet confidence, config-file self-portrait. -->
+
+### Hey, I'm Brandon. `phattbeats`
+
+Bridging the analog and digital gap.
+
+I never called myself a developer. I run infrastructure, I break things until they work, and somewhere along the way the things I built started getting merged into projects other people depend on.
+
+```yaml
+# phattbeats.yml
+operator:
+  base: USA
+  runs: PHATT TECH
+  stack:
+    homelab: [Unraid, Docker, SWAG, way too many containers]
+    languages: [Python, TypeScript, JavaScript, Lua, YAML-as-a-lifestyle]
+    ai: [Claude, self-hosted TTS, agent orchestration at scale]
+  philosophy: >
+    If it exists, it can be self-hosted.
+    If it can't be self-hosted, give it a week.
+```
+
+#### 🔀 Upstream contributions
+
+The stuff I'm proudest of — patches that left the homelab and got merged into the wild:
+
+- **[linuxserver/docker-socket-proxy #51](https://github.com/linuxserver/docker-socket-proxy/pull/51)** — fixed archive PUTs silently discarding bodies without `Content-Type`. **Merged.** My first official open-source contribution, found the hard way in production.
+- **[devnen/Chatterbox-TTS-Server](https://github.com/devnen/Chatterbox-TTS-Server/pull/137)** — AMD ROCm guidance for RX 6000 owners.
+- **[aikohanasaki/SillyTavern-MemoryBooks](https://github.com/aikohanasaki/SillyTavern-MemoryBooks/pulls?q=author%3Aphattbeats)** — a run of fixes and a zero-argument automation pipeline.
+- **[paperclipai/paperclip](https://github.com/paperclipai/paperclip/pulls?q=author%3Aphattbeats)** — cost-accounting and adapter improvements for the agent platform I run in production.
+
+#### 🛠 What I'm building
+
+| | |
+|---|---|
+| [homestead](https://github.com/phattbeats/homestead) | A shared-life app for two people — tasks, lists, and a front porch |
+| [phatt-picks](https://github.com/phattbeats/phatt-picks) | Mobile-first CS2 Major Pick'Em companion |
+| [cliclo](https://github.com/phattbeats/cliclo) | CLI comic library organizer |
+| [obsessed](https://github.com/phattbeats/obsessed) | Hyper-personal trivia engine |
+| [anthropic-proxy](https://github.com/phattbeats/anthropic-proxy) | For when LiteLLM refuses to cooperate |
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=phattbeats&style=flat-square&color=blue" alt="profile views"/>
+</p>
