@@ -25,8 +25,6 @@
 *Original programming picked up by other networks:*
 
 - 🏆 **[linuxserver/docker-socket-proxy #51](https://github.com/linuxserver/docker-socket-proxy/pull/51)** — `MERGED` · fixed archive PUTs dropping bodies without `Content-Type`. First national syndication.
-- **[devnen/Chatterbox-TTS-Server #137](https://github.com/devnen/Chatterbox-TTS-Server/pull/137)** — AMD ROCm docs for RX 6000.
-- **[aikohanasaki/SillyTavern-MemoryBooks](https://github.com/aikohanasaki/SillyTavern-MemoryBooks/pulls?q=author%3Aphattbeats)** — four-episode fix arc + a zero-argument automation special.
 - **[paperclipai/paperclip](https://github.com/paperclipai/paperclip/pulls?q=author%3Aphattbeats)** — cost-accounting and adapter storylines, in negotiation.
 
 ## 🎛 MASTER CONTROL

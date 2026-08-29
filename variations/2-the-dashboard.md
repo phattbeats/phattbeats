@@ -28,8 +28,6 @@
 > My personal goal for years: get real code merged into real open-source projects. Done — and counting.
 
 [![linuxserver PR](https://img.shields.io/badge/linuxserver%2Fdocker--socket--proxy-PR%20%2351%20MERGED-2ea44f?style=flat-square&logo=github)](https://github.com/linuxserver/docker-socket-proxy/pull/51)
-[![chatterbox PR](https://img.shields.io/badge/Chatterbox--TTS--Server-PR%20%23137-blue?style=flat-square&logo=github)](https://github.com/devnen/Chatterbox-TTS-Server/pull/137)
-[![stmb PRs](https://img.shields.io/badge/SillyTavern--MemoryBooks-4%20PRs-blue?style=flat-square&logo=github)](https://github.com/aikohanasaki/SillyTavern-MemoryBooks/pulls?q=author%3Aphattbeats)
 [![paperclip PRs](https://img.shields.io/badge/paperclipai%2Fpaperclip-cost%20%2B%20adapter%20PRs-blue?style=flat-square&logo=github)](https://github.com/paperclipai/paperclip/pulls?q=author%3Aphattbeats)
 
 ### 📊 Stats

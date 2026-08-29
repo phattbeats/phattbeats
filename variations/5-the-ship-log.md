@@ -27,7 +27,7 @@ All notable changes to this human are documented here. Format loosely based on
 - [homestead](https://github.com/phattbeats/homestead) — shared-life app for two people: take-turns tasks, synced lists, porch invites.
 - [phatt-picks](https://github.com/phattbeats/phatt-picks) — CS2 Major Pick'Em companion with live Valve data.
 - [obsessed](https://github.com/phattbeats/obsessed) — hyper-personal trivia platform.
-- Upstream PRs to [Chatterbox-TTS-Server](https://github.com/devnen/Chatterbox-TTS-Server/pull/137), [SillyTavern-MemoryBooks](https://github.com/aikohanasaki/SillyTavern-MemoryBooks/pulls?q=author%3Aphattbeats), [paperclipai/paperclip](https://github.com/paperclipai/paperclip/pulls?q=author%3Aphattbeats), and [hermes-paperclip-adapter](https://github.com/NousResearch/hermes-paperclip-adapter/pull/112).
+- Upstream PRs to [paperclipai/paperclip](https://github.com/paperclipai/paperclip/pulls?q=author%3Aphattbeats) and [hermes-paperclip-adapter](https://github.com/NousResearch/hermes-paperclip-adapter/pull/112).
 
 ## [Earlier] — "Analog Roots"
 ### Added

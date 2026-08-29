@@ -25,8 +25,6 @@ operator:
 The stuff I'm proudest of — patches that left the homelab and got merged into the wild:
 
 - **[linuxserver/docker-socket-proxy #51](https://github.com/linuxserver/docker-socket-proxy/pull/51)** — fixed archive PUTs silently discarding bodies without `Content-Type`. **Merged.** My first official open-source contribution, found the hard way in production.
-- **[devnen/Chatterbox-TTS-Server](https://github.com/devnen/Chatterbox-TTS-Server/pull/137)** — AMD ROCm guidance for RX 6000 owners.
-- **[aikohanasaki/SillyTavern-MemoryBooks](https://github.com/aikohanasaki/SillyTavern-MemoryBooks/pulls?q=author%3Aphattbeats)** — a run of fixes and a zero-argument automation pipeline.
 - **[paperclipai/paperclip](https://github.com/paperclipai/paperclip/pulls?q=author%3Aphattbeats)** — cost-accounting and adapter improvements for the agent platform I run in production.
 
 #### 🛠 What I'm building

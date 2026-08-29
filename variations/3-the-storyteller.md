@@ -26,8 +26,6 @@ That one was a personal goal for a long time. It's on the board now.
 ### Upstream, where it counts
 
 Local patches die with the machine. Upstream patches live forever. Besides the linuxserver merge:
-[Chatterbox-TTS-Server](https://github.com/devnen/Chatterbox-TTS-Server/pull/137) ·
-[SillyTavern-MemoryBooks](https://github.com/aikohanasaki/SillyTavern-MemoryBooks/pulls?q=author%3Aphattbeats) ·
 [paperclipai/paperclip](https://github.com/paperclipai/paperclip/pulls?q=author%3Aphattbeats) ·
 [hermes-paperclip-adapter](https://github.com/NousResearch/hermes-paperclip-adapter/pull/112)
 
