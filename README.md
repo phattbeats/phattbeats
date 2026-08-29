@@ -40,5 +40,12 @@ The stuff I'm proudest of — patches that left the homelab and got merged into 
 ---
 
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/phattbeats/phattbeats/output/github-snake-dark.svg"/>
+    <img src="https://raw.githubusercontent.com/phattbeats/phattbeats/output/github-snake.svg" alt="contribution snake"/>
+  </picture>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=phattbeats&style=flat-square&color=blue" alt="profile views"/>
 </p>
