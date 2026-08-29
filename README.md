@@ -19,7 +19,7 @@ operator:
 
 #### 🔀 Upstream contributions
 
-The stuff I'm proudest of — patches that left the homelab and got merged into the wild:
+The stuff I'm proudest of. Patches that left the homelab and got merged into the wild:
 
 - **[linuxserver/docker-socket-proxy #51](https://github.com/linuxserver/docker-socket-proxy/pull/51)** — fixed archive PUTs silently discarding bodies without `Content-Type`. **Merged.** My first official open-source contribution, found the hard way in production.
 - **[paperclipai/paperclip](https://github.com/paperclipai/paperclip/pulls?q=author%3Aphattbeats)** — cost-accounting and adapter improvements for the agent platform I run in production.
