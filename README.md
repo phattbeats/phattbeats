@@ -1,4 +1,8 @@
 
+<p align="center">
+  <img src="./assets/phattbeats-banner.png" alt="phattbeats — Bridging the analog and digital gap"/>
+</p>
+
 ### Hey, I'm Brandon. `phattbeats`
 
 I never called myself a developer. I run infrastructure, I break things until they work, and somewhere along the way the things I built started getting merged into projects other people depend on.
