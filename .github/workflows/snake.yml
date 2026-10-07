@@ -1,0 +1,35 @@
+name: generate contribution snake
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - master
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      # pacman runs first: it's a plain Node action, so it creates dist/ as the
+      # runner user. snk runs in Docker as root and would leave dist/ unwritable.
+      - uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: phattbeats
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: phattbeats
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
